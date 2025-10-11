@@ -34,13 +34,3 @@ lib/
 ├─ main.dart
 ```
 
-## 📚 Tutorials
-
-* **YouTube Video** 🎥
-<img src="https://github.com/user-attachments/assets/39554010-8942-4bdf-8729-922c512da2f4" style="width: 400px; height: 250px;">
-
-  * https://www.youtube.com/watch?v=oQ_Izz1Q4iY
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
