@@ -1,6 +1,6 @@
-# Flutter Video Feed
+#Video Feed
 
-**Flutter Video Feed** is an open-source Flutter project that demonstrates how to build a performant social media-style video feed similar to TikTok, Instagram Reels, or YouTube Shorts. The project showcases video handling, memory management, and smooth scrolling using MVVM architecture.
+*Video Feed** is an open-source Flutter project that demonstrates how to build a performant social media-style video feed similar to TikTok, Instagram Reels, or YouTube Shorts. The project showcases video handling, memory management, and smooth scrolling using MVVM architecture.
 
 
 To keep performance sharp and resource usage minimal, the project uses an LRU (Least Recently Used) caching strategy for video preloading and disposal.
